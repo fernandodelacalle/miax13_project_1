@@ -2,3 +2,4 @@ boto3
 fsspec
 pandas
 s3fs
+lxml
